@@ -1,0 +1,30 @@
+E:/CODING/C#/Messaging app/Messaging app/bin/Release/netcoreapp3.1/Messaging app.exe
+E:/CODING/C#/Messaging app/Messaging app/bin/Release/netcoreapp3.1/Messaging app.deps.json
+E:/CODING/C#/Messaging app/Messaging app/bin/Release/netcoreapp3.1/Messaging app.runtimeconfig.json
+E:/CODING/C#/Messaging app/Messaging app/bin/Release/netcoreapp3.1/Messaging app.runtimeconfig.dev.json
+E:/CODING/C#/Messaging app/Messaging app/bin/Release/netcoreapp3.1/Messaging app.dll
+E:/CODING/C#/Messaging app/Messaging app/bin/Release/netcoreapp3.1/Messaging app.pdb
+E:/CODING/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.AssemblyInfoInputs.cache
+E:/CODING/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.AssemblyInfo.cs
+E:/CODING/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.csproj.CoreCompileInputs.cache
+E:/CODING/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.dll
+E:/CODING/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.pdb
+E:/CODING/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.genruntimeconfig.cache
+E:/CODING/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.csprojAssemblyReference.cache
+F:/CODING/Personal Projects/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.csproj.AssemblyReference.cache
+F:/CODING/Personal Projects/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.dll
+F:/CODING/Personal Projects/C#/Messaging app/Messaging app/obj/Release/netcoreapp3.1/Messaging app.pdb
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/obj/Release/netcoreapp3.1/Messaging app.csproj.AssemblyReference.cache
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/obj/Release/netcoreapp3.1/Messaging app.dll
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/obj/Release/netcoreapp3.1/Messaging app.pdb
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/bin/Release/netcoreapp3.1/Messaging app
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/bin/Release/netcoreapp3.1/Messaging app.deps.json
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/bin/Release/netcoreapp3.1/Messaging app.runtimeconfig.json
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/bin/Release/netcoreapp3.1/Messaging app.runtimeconfig.dev.json
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/bin/Release/netcoreapp3.1/Messaging app.dll
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/bin/Release/netcoreapp3.1/Messaging app.pdb
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/obj/Release/netcoreapp3.1/Messaging app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/obj/Release/netcoreapp3.1/Messaging app.AssemblyInfoInputs.cache
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/obj/Release/netcoreapp3.1/Messaging app.AssemblyInfo.cs
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/obj/Release/netcoreapp3.1/Messaging app.csproj.CoreCompileInputs.cache
+/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/obj/Release/netcoreapp3.1/Messaging app.genruntimeconfig.cache

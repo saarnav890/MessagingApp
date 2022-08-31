@@ -1,0 +1,6 @@
+/Users/aarnav/Downloads/Temp/Settings.job
+/Users/aarnav/Downloads/Temp/Server
+/Users/aarnav/Downloads/Temp/Server.dll
+/Users/aarnav/Downloads/Temp/Server.deps.json
+/Users/aarnav/Downloads/Temp/Server.runtimeconfig.json
+/Users/aarnav/Downloads/Temp/Server.pdb

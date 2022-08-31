@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jtaiNgOIZGLjTDrC2nsesWY/i2PKAznprABlWSv/sVG1uYsWbJJCc231xahiJWINqOTrSXlpAlgAqRbnRI4ow==",
+  "success": true,
+  "projectFilePath": "/Users/aarnav/Downloads/Temp/Messaging app 2/Messaging app/Messaging app.csproj",
+  "expectedPackageFiles": [
+    "/Users/aarnav/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/aarnav/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512",
+    "/Users/aarnav/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

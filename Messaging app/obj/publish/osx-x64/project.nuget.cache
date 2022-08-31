@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tfoc8CubIU75dgoR1t35SIR1T8FkgYBK/CNbCYo0GaoSefL/uH5ohmr5DtvAgRRZ+YEvw1r7UYK3A1M0YRfz9Q==",
+  "success": true,
+  "projectFilePath": "E:\\CODING\\C#\\Messaging app\\Messaging app\\Messaging app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AARNA\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\3.1.6\\microsoft.netcore.app.runtime.osx-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\AARNA\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\3.1.6\\microsoft.aspnetcore.app.runtime.osx-x64.3.1.6.nupkg.sha512",
+    "C:\\Users\\AARNA\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\3.1.6\\microsoft.netcore.app.host.osx-x64.3.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+E:\CODING\C#\Messaging app\Server\bin\Release\netcoreapp3.1\win-x64\Server.exe
+E:\CODING\C#\Messaging app\Server\bin\Release\netcoreapp3.1\win-x64\Settings.job
+E:\CODING\C#\Messaging app\Server\bin\Release\netcoreapp3.1\win-x64\Server.deps.json
+E:\CODING\C#\Messaging app\Server\bin\Release\netcoreapp3.1\win-x64\Server.runtimeconfig.json
+E:\CODING\C#\Messaging app\Server\bin\Release\netcoreapp3.1\win-x64\Server.runtimeconfig.dev.json
+E:\CODING\C#\Messaging app\Server\bin\Release\netcoreapp3.1\win-x64\Server.dll
+E:\CODING\C#\Messaging app\Server\bin\Release\netcoreapp3.1\win-x64\Server.pdb
+E:\CODING\C#\Messaging app\Server\obj\Release\netcoreapp3.1\win-x64\Server.AssemblyInfoInputs.cache
+E:\CODING\C#\Messaging app\Server\obj\Release\netcoreapp3.1\win-x64\Server.AssemblyInfo.cs
+E:\CODING\C#\Messaging app\Server\obj\Release\netcoreapp3.1\win-x64\Server.csproj.CoreCompileInputs.cache
+E:\CODING\C#\Messaging app\Server\obj\Release\netcoreapp3.1\win-x64\Server.dll
+E:\CODING\C#\Messaging app\Server\obj\Release\netcoreapp3.1\win-x64\Server.pdb
+E:\CODING\C#\Messaging app\Server\obj\Release\netcoreapp3.1\win-x64\Server.genruntimeconfig.cache
