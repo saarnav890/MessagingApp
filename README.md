@@ -1,10 +1,7 @@
 # MessagingApp
-A simple project that contains a server, as well as a client application for two clients to chat via tcp
+A C# project that contains a server, as well as a client application for two clients to chat via tcp
 
-Made using dotnet in C#
-
-The intent was to learn and apply low level concepts such as byte arrays, System.Threading, writing data to a Network Stream, and handling two simultaneous connections, all while making an interactive command line chat application
-
+The intent was to learn and apply low-level concepts such as byte arrays, System.Threading, writing data to a Network Stream, and handling two simultaneous connections, all while making an interactive command line chat application
 ## How to use
 
 (If both clients and the server are on the same network as the server, skip step 2)
