@@ -86,7 +86,7 @@ namespace Messaging_app
             try
             {
 
-                
+                //change this!
                 client.Connect("messagingapp.chickenkiller.com", 50002);
                 
          
